@@ -10,6 +10,7 @@ Add into JS
 ```javascript
 import '@morsedigital/morse-marker';
 ```
+outputs:
 
 ```javascript
     __  ___                        ____  _       _ __        __
