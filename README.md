@@ -1,6 +1,16 @@
 # morse-marker
 Morse Marker for JS on all projects outputs into console
 
+```bash
+yarn add @morsedigital/morse-marker
+```
+
+Add into JS
+
+```javascript
+import '@morsedigital/morse-marker';
+```
+
 ```javascript
     __  ___                        ____  _       _ __        __
    /  |/  /___  _____________     / __ \(_)___ _(_) /_____ _/ /
